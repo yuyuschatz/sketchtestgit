@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 5048,
+  "changeIdentifier": 5067,
   "do_objectID": "63281BE3-0B5A-45CD-A575-C30435CD8A56",
   "exportOptions": {
     "_class": "exportOptions",
@@ -58,6 +58,10 @@
     {
       "class": "symbolInstance",
       "id": "041D4E65-EC51-4DA5-A55B-C662C29B73C8"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "57EABB8F-FD94-41B3-A1B3-49A6C54F4683"
     }
   ],
   "name": "1x / session info / global",
