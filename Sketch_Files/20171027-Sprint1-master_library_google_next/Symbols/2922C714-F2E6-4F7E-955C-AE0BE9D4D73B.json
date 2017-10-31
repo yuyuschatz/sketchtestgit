@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 70,
+  "changeIdentifier": 71,
   "do_objectID": "2922C714-F2E6-4F7E-955C-AE0BE9D4D73B",
   "exportOptions": {
     "_class": "exportOptions",
@@ -43,10 +43,6 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "layers": [
-    {
-      "class": "group",
-      "id": "E678FFA4-C4C2-4FE3-B81B-645850DC78F1"
-    }
   ],
   "name": "1x / logo / sap",
   "nameIsFixed": false,
