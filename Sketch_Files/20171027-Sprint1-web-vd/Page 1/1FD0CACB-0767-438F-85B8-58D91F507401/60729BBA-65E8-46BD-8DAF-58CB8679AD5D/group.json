@@ -1,0 +1,65 @@
+{
+  "_class": "group",
+  "do_objectID": "60729BBA-65E8-46BD-8DAF-58CB8679AD5D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 734,
+    "width": 644,
+    "x": 197,
+    "y": 264
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "FF757E18-1EED-44BC-879F-62F6DD72D3FD"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "5A52CF06-37A5-4103-8375-D69ADE49D2FB"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "966F7071-E68F-4659-AEC3-BD98D48C1290"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "DCC201D7-01A3-4BA0-A792-F64962465EA0"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "84AB32F8-7199-40DD-A77F-A4FF20B86EB1"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "64D02F84-2298-4E69-AE37-6DA2D9FF464D"
+    }
+  ],
+  "name": "Sessions",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

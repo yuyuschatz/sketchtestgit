@@ -1,0 +1,142 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "do_objectID": "ECEEB999-DE4A-4269-A7FA-EF3954C92BA5",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 2708,
+    "width": 1280,
+    "x": -7630,
+    "y": 29
+  },
+  "grid": {
+    "_class": "simpleGrid",
+    "gridSize": 64,
+    "isEnabled": false,
+    "thickGridTimes": 64
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+      1217
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "D9CB529E-0CAD-4670-89FF-C600F7D9EFFE"
+    },
+    {
+      "class": "group",
+      "id": "58FC814C-4886-474C-982F-6080A3DB18FE"
+    },
+    {
+      "class": "group",
+      "id": "D6D7C1FC-5365-4823-BACE-10540C2EB7EF"
+    },
+    {
+      "class": "group",
+      "id": "93F4AAD2-017E-45CA-9C7D-DA70F931DD0F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "9E3025A2-20DC-416A-A5C3-65BC0EDAEA1F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "2FD70DC3-D93E-45EC-88A2-1A180C0B5B8C"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "57A4D0E5-7FDF-4CEE-972B-346E6565B776"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "F97D9783-D6EC-4B49-BA9F-CDB9A09DA16F"
+    }
+  ],
+  "name": "Web:Speaker:Session List",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.847,
+          "green": 0.847,
+          "red": 0.847
+        },
+        "fillType": 4,
+        "image": {
+          "_class": "MSJSONFileReference",
+          "_ref": "images/41ccd157d37cc71a5b12b3c97cc8d2601cd8e485",
+          "_ref_class": "MSImageData"
+        },
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.invisionlabs.duplicate": {
+      "photos-duplicate": {
+        "asTile": 0,
+        "items": [
+          {
+            "link": "https://commondatastorage.googleapis.com/eventpoint-gnext17-documents/201703021849/Will_Marshall_PlanetLabs.jpg",
+            "type": "src"
+          }
+        ],
+        "mode": "web"
+      }
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+      485,
+      557
+    ]
+  }
+}

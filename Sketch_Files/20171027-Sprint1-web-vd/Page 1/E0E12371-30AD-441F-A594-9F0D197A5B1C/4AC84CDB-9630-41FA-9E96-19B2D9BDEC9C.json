@@ -1,0 +1,52 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "4AC84CDB-9630-41FA-9E96-19B2D9BDEC9C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 64,
+    "width": 1280,
+    "x": 0,
+    "y": 64
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "masterInfluenceEdgeMaxXPadding": 0,
+  "masterInfluenceEdgeMaxYPadding": 1,
+  "masterInfluenceEdgeMinXPadding": 0,
+  "masterInfluenceEdgeMinYPadding": 0,
+  "name": "1x / navigation / local",
+  "nameIsFixed": false,
+  "overrides": {
+    "1851350F-887E-4E01-A523-5FE65AAFFDC8": "FAQ",
+    "6626F3D3-5DAA-49C7-BE1A-C38D20F665F1": "Why",
+    "87D28480-1A80-42E2-A70C-2DB7DE3FEFAB": "Code of Conduct",
+    "BA108F1F-ACCE-4BBF-88C1-2CF98436048F": "Sponsors",
+    "F3B69360-5349-45FA-A0A8-976D5646F82C": "Glossary"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "9BC26E5A-9FC1-449B-9D23-6DB1B0BB6648",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,52 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "15922B3A-EDFA-48B2-8D58-FD2D5BE9A50F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 122,
+    "width": 743,
+    "x": 1,
+    "y": 1222
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "masterInfluenceEdgeMaxXPadding": 0,
+  "masterInfluenceEdgeMaxYPadding": 0,
+  "masterInfluenceEdgeMinXPadding": 1,
+  "masterInfluenceEdgeMinYPadding": 0,
+  "name": "1x / session info / local",
+  "nameIsFixed": false,
+  "overrides": {
+    "20C63513-AB09-401C-9223-0E7863F31C68": "3:10 PM-4:10 PM Moscone Center West / Room 2018 AD211",
+    "4FA3AF88-2A60-4770-9AC4-F2B3085C9129": {
+      "04AD6572-B69D-4181-AC16-AB3CAB2A344F": "Development"
+    },
+    "BAB10968-F4CA-45E7-81F2-1FF5ED4771F1": "Running .NET Containers on Google Cloud Platform"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "7EA5BA93-215D-42A5-9A84-7D8C53F3CC9B",
+  "verticalSpacing": 0
+}

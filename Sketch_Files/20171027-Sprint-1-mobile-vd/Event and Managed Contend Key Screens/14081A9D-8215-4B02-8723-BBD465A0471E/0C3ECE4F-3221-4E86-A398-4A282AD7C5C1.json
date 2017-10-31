@@ -1,0 +1,53 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "0C3ECE4F-3221-4E86-A398-4A282AD7C5C1",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 335,
+    "width": 1440,
+    "x": 0,
+    "y": 511
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "masterInfluenceEdgeMaxXPadding": 0,
+  "masterInfluenceEdgeMaxYPadding": 0,
+  "masterInfluenceEdgeMinXPadding": 0,
+  "masterInfluenceEdgeMinYPadding": 0,
+  "name": "2x/filter/resultsModule",
+  "nameIsFixed": false,
+  "overrides": {
+    "CCA4EAFF-475A-44D7-A306-C3434D94A3DB": {
+      "3FB04AA4-52FC-4506-A05D-D540AC19CCC6": "Big Data"
+    },
+    "D243D0D1-D549-431B-A867-BA52A41884EF": {
+      "CE80A8D5-2B76-497F-83E7-DF45A081ED47": "Bid Data"
+    }
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "EFA6A19F-FA62-4E77-88E5-BCEE0C6A93DB",
+  "verticalSpacing": 0
+}

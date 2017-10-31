@@ -1,0 +1,65 @@
+{
+  "_class": "group",
+  "do_objectID": "DED55DD8-7081-4986-A8FD-6886E60F3C94",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 1711,
+    "width": 742,
+    "x": 475,
+    "y": 586
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "A6F2AF0D-4ABB-4AC8-B728-06F27E32683C"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "5D89A622-45BA-4D75-ADCE-22719587D5DD"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "E2AA1060-9AE2-40A7-B030-B9DE10428D39"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "31D35217-0442-4006-B6F9-75E4124E55B7"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "665557A2-1390-46EC-A128-12BC1228838F"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "8E72F913-C086-4644-9F17-AC26D620BA7C"
+    }
+  ],
+  "name": "Dividers",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

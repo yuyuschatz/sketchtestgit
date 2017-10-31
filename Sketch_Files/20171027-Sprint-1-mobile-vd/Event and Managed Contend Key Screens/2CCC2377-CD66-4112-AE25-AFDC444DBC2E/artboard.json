@@ -1,0 +1,102 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "do_objectID": "2CCC2377-CD66-4112-AE25-AFDC444DBC2E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "pdf",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 2880,
+    "width": 868,
+    "x": 2159,
+    "y": -1062
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+      80
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "text",
+      "id": "E87D2349-93F6-4AF1-871F-7E9C1E1EA08B"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "551B60E4-C14E-4EF8-8657-D161B14C409A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "9D5EB44F-18A7-4EF9-A483-A80870B566B7"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "B3E27A7A-C4F4-417F-98D4-A345EB6ECE95"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "5FB7C820-D3E8-4E44-9409-36F1A72CF50D"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "930C8F64-DBA8-481F-AF6A-F3BF7EE1321C"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "947464F8-EE88-4C5C-8FB0-407A9760349A"
+    }
+  ],
+  "name": "2:Annotations:Filter",
+  "nameIsFixed": true,
+  "resizesContent": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

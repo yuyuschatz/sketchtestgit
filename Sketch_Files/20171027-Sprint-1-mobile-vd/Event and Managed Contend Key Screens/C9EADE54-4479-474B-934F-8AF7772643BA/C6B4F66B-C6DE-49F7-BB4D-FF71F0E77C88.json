@@ -1,0 +1,72 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "C6B4F66B-C6DE-49F7-BB4D-FF71F0E77C88",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 190,
+    "width": 1440,
+    "x": 0,
+    "y": 2216
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "masterInfluenceEdgeMaxXPadding": 0,
+  "masterInfluenceEdgeMaxYPadding": 0,
+  "masterInfluenceEdgeMinXPadding": 0,
+  "masterInfluenceEdgeMinYPadding": 0,
+  "name": "2x/filter/chip copy 2",
+  "nameIsFixed": false,
+  "overrides": {
+    "0AA08193-86F6-4DDB-AC2F-827401A489A3": {
+      "symbolID": ""
+    },
+    "966703C5-4320-414B-965A-9B2496BACD13": {
+      "CE80A8D5-2B76-497F-83E7-DF45A081ED47": "Big Data",
+      "symbolID": "786B029C-E2C9-4348-9794-53D117658A92"
+    },
+    "B4A162A8-B382-45E4-B23F-A0D5CCBE6B11": {
+      "symbolID": ""
+    },
+    "C54111F7-1DDC-4B24-AF89-83A11060D5D7": {
+      "symbolID": ""
+    },
+    "CB5E9716-3693-44BA-B571-2A3830E31DE1": {
+      "symbolID": ""
+    },
+    "ED7AB17B-CF11-45E7-8789-85ABD92E47F5": {
+      "symbolID": ""
+    },
+    "EEF18DEA-B101-4E1C-B906-DE146B273F6C": {
+      "symbolID": "633FC7D5-D0DE-40BD-9F1C-CD9548A24B14"
+    },
+    "FC91C094-A3EE-48EB-9531-E08548FE915F": {
+      "symbolID": "141A3971-5C9E-4FBA-BD39-DF23641F2FC4"
+    }
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "6E947512-738D-45F6-ADEC-1787226739A9",
+  "verticalSpacing": 0
+}

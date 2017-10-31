@@ -1,0 +1,65 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "9CE4366D-DCE4-4316-A988-F6F28FA0D92B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 457,
+    "width": 1440,
+    "x": 0,
+    "y": 3358
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "masterInfluenceEdgeMaxXPadding": 0,
+  "masterInfluenceEdgeMaxYPadding": 0,
+  "masterInfluenceEdgeMinXPadding": 0,
+  "masterInfluenceEdgeMinYPadding": 0,
+  "name": "2x/session-module/wrap/Transforming company culture with G+",
+  "nameIsFixed": true,
+  "overrides": {
+    "0B756E54-7F86-4D1E-843C-6A9860C07ACB": "Transforming company culture with Google+",
+    "14F066A7-F111-4BA3-BC48-FBE2D98C4BA1": {
+      "symbolID": ""
+    },
+    "4404B36E-B585-4F8B-B94A-77D03A5410FA": "11:00AM - 12:30PM / Location C",
+    "5A1C0522-A450-4AA3-9847-4D5EE882A8F3": "Meet the Experts - Big Data Analytics",
+    "653FAF04-5622-4434-B4CA-03193CA2DFB7": {
+      "symbolID": ""
+    },
+    "BE7606E1-CAD7-448B-B7F4-8D0E67AEA16C": {
+      "symbolID": ""
+    },
+    "C071B94C-A15C-4502-B0A8-4AE3750C0B92": {
+      "symbolID": ""
+    },
+    "E4B34BB4-285F-474F-A602-04342084004E": {
+      "CE80A8D5-2B76-497F-83E7-DF45A081ED47": "Big Data"
+    }
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "A1269981-9D25-4A1E-9B43-258E64371ED7",
+  "verticalSpacing": 0
+}

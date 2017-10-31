@@ -1,0 +1,49 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "26BE786A-C8CC-4E09-8166-A93C68CCB0FB",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 150,
+    "width": 372,
+    "x": 842,
+    "y": 414
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "masterInfluenceEdgeMaxXPadding": 4,
+  "masterInfluenceEdgeMaxYPadding": 6,
+  "masterInfluenceEdgeMinXPadding": 4,
+  "masterInfluenceEdgeMinYPadding": 2,
+  "name": "1x / session / card",
+  "nameIsFixed": false,
+  "overrides": {
+    "02CEE8DE-1380-4C1A-AC50-C3A6DE38F340": "3:10 PM-4:10 PM Marriott Marquis / Salon 6",
+    "891A311B-894E-467E-AE8E-FD83F2FD9101": "Developing mobile strategies with Android & Chrome"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "2701855B-4CD8-49C2-913E-1EC4C54634B0",
+  "verticalSpacing": 0
+}

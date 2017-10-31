@@ -1,0 +1,105 @@
+{
+  "_class": "group",
+  "do_objectID": "D6D7C1FC-5365-4823-BACE-10540C2EB7EF",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 1680,
+    "width": 1108,
+    "x": 81,
+    "y": 557
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "2776B213-2857-4701-8020-EC1359838ADE"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "8308797B-FF5E-43FE-BDAB-0C94C5B5C466"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "EE037FA6-A0A9-4ACC-9D8F-3954CA99795F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "D025914A-9AEF-496A-B735-C2BAB3843F45"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "DAB3D63A-4C22-427A-81BC-262D00638A77"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "3914313F-C169-48BE-9274-B7008742ECA1"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "415813F4-F7BF-4242-BC8F-B7BFA8779E38"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "96CA3140-F03A-41E7-A053-0720304B0A64"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "537E905B-3F20-4B12-B0A6-A958E6B40407"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "96500CC7-864F-4930-900B-18D0EFF37A41"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "C93DD98D-A41A-484D-AF7D-7D65E578A84E"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "1A39F3BB-579F-4BBA-9228-D07ED6DBBA46"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "CC9BFF40-25C6-4B74-930B-EA081932E800"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "12E32369-5570-4C07-9EF2-DD41099E5BC6"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "6D04E860-9A87-4972-9724-2AD7F2716B4D"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "800262B0-5DE1-4AF2-961D-3A963C7ABDD6"
+    }
+  ],
+  "name": "Speakers",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

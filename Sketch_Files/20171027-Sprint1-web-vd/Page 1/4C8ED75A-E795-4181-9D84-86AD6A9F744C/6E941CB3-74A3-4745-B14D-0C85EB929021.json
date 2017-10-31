@@ -1,0 +1,49 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "6E941CB3-74A3-4745-B14D-0C85EB929021",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 325,
+    "width": 1280,
+    "x": 0,
+    "y": 1994
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "masterInfluenceEdgeMaxXPadding": 0,
+  "masterInfluenceEdgeMaxYPadding": 2,
+  "masterInfluenceEdgeMinXPadding": 0,
+  "masterInfluenceEdgeMinYPadding": 0,
+  "name": "1x / session / header",
+  "nameIsFixed": false,
+  "overrides": {
+    "2A30CA6C-367E-4D57-843D-C3B9F0AF1E01": "Become a Sponsor",
+    "549B5A17-75B6-4894-A335-CE26DD43683B": "Join us at Google Cloud San Francisco to engage with a wide variety of Google Cloud customers, along with executives, developers, and technologists for immersive events build for the cloud community. We'll be showcasing customers and partnerships that are transforming with cloud, using machine intelligence to revolutionize businesses, and leveraging cloud-based solutions to build what's next. Will you be one of them?"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "0DE83E97-0445-4729-9A4E-3ED2719A94D0",
+  "verticalSpacing": 0
+}

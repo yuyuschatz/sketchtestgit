@@ -1,0 +1,57 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "966F7071-E68F-4659-AEC3-BD98D48C1290",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 122,
+    "width": 643,
+    "x": 1,
+    "y": 488
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "masterInfluenceEdgeMaxXPadding": 0,
+  "masterInfluenceEdgeMaxYPadding": 0,
+  "masterInfluenceEdgeMinXPadding": 0,
+  "masterInfluenceEdgeMinYPadding": 0,
+  "name": "1x / session info / local",
+  "nameIsFixed": false,
+  "overrides": {
+    "041D4E65-EC51-4DA5-A55B-C662C29B73C8": {
+      "8E1C689A-10A2-4501-BCA1-D5D2F636532A": "Continuing Education"
+    },
+    "20C63513-AB09-401C-9223-0E7863F31C68": "11:50 AM-12:50PM Moscone Center West / Room 2005 BD308",
+    "38993E8F-1FD0-4D64-BA1F-7FEDFB0AC2EB": "11:00 AM-7:00 PM Moscone Center West / CODELAB1",
+    "78B67215-F3A7-4D85-9ADF-4EE875F95EE3": "Codelabs Day 1",
+    "B3BDF7B3-0D66-4D2A-B498-EAAAAF504F29": {
+      "04AD6572-B69D-4181-AC16-AB3CAB2A344F": "Codelabs"
+    },
+    "BAB10968-F4CA-45E7-81F2-1FF5ED4771F1": "Lifecycle of a machine learning model"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "8A54C4BA-8D03-4EBE-86EA-EF5B75A5FECB",
+  "verticalSpacing": 0
+}

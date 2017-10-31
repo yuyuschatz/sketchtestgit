@@ -1,0 +1,51 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "B02DFC49-F337-4563-B63B-C8C11ED3A088",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 190,
+    "width": 1440,
+    "x": 0,
+    "y": 416
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "masterInfluenceEdgeMaxXPadding": 7106,
+  "masterInfluenceEdgeMaxYPadding": 2592,
+  "masterInfluenceEdgeMinXPadding": 5906,
+  "masterInfluenceEdgeMinYPadding": 2592,
+  "name": "2x/divider/accordion",
+  "nameIsFixed": false,
+  "overrides": {
+    "3B973CD2-C77E-4A5E-BF53-ACE8EA80E5A0": {
+      "symbolID": ""
+    },
+    "DB0227B1-5CFC-469A-9F1C-0C0378E68410": "General"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "5E81B04F-88C7-4E01-8433-BF4621F424B5",
+  "verticalSpacing": 0
+}

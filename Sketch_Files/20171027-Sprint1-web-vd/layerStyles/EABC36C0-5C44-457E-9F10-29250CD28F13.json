@@ -1,0 +1,30 @@
+{
+  "_class": "sharedStyle",
+  "do_objectID": "EABC36C0-5C44-457E-9F10-29250CD28F13",
+  "name": "notebook:comment:index:bg",
+  "value": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.04313725490196078,
+          "green": 0.5686274509803921,
+          "red": 0.3333333333333333
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "sharedObjectID": "EABC36C0-5C44-457E-9F10-29250CD28F13",
+    "startDecorationType": 0
+  }
+}

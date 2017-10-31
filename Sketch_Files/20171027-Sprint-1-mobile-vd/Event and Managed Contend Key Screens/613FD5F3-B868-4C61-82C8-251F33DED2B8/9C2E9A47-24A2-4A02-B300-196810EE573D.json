@@ -1,0 +1,48 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "9C2E9A47-24A2-4A02-B300-196810EE573D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 576,
+    "width": 1440,
+    "x": 0,
+    "y": 965
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "masterInfluenceEdgeMaxXPadding": 0,
+  "masterInfluenceEdgeMaxYPadding": 0,
+  "masterInfluenceEdgeMinXPadding": 0,
+  "masterInfluenceEdgeMinYPadding": 0,
+  "name": "2x/body/paragraph",
+  "nameIsFixed": false,
+  "overrides": {
+    "5394DAF9-FD62-4954-9A4C-0D39DCFDD6DB": "Valliappa (Lak) Lakshmanan is currently a Technical Lead for Data and Machine Learning Professional Services for Google Cloud. His mission is to democratize machine learning so that it can be done by anyone anywhere using Google's amazing infrastructure, without deep knowledge of statistics or programming or ownership of a lot of hardware. "
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "F3128246-7EF3-4D6D-B347-A786FC2A22FF",
+  "verticalSpacing": 0
+}

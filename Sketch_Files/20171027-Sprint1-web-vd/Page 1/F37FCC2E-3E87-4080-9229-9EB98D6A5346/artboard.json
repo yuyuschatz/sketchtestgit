@@ -1,0 +1,111 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "do_objectID": "F37FCC2E-3E87-4080-9229-9EB98D6A5346",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 1600,
+    "width": 1280,
+    "x": 11105,
+    "y": -296
+  },
+  "grid": {
+    "_class": "simpleGrid",
+    "gridSize": 64,
+    "isEnabled": false,
+    "thickGridTimes": 64
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+      81
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "6685312B-AD3F-4A0D-9CD5-05AFE63D65B6"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "1332FC6A-257A-4109-A128-57AE2BBC8148"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E9CE16A6-CE77-4FBB-A1F4-78D0A5031068"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "B607A28D-950E-4630-AE7D-F7752396D337"
+    },
+    {
+      "class": "text",
+      "id": "177D1F0C-58A7-4EB4-A3AD-55A19993F2D8"
+    },
+    {
+      "class": "bitmap",
+      "id": "9DD21EE2-34F6-4804-8C32-A73208E66EFB"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "74E08A48-3E4C-4F88-866F-AAE57BB9EF19"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "A5C48631-5D41-402A-B8EA-A8766030F981"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "B9C20ADA-1B7F-424B-8A99-8E83160EAB0A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "6C6DE4F6-115D-48E0-AC4A-023345F7437D"
+    }
+  ],
+  "name": "Web:About:Expand",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

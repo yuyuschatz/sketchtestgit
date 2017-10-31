@@ -1,0 +1,45 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "121D6DAB-8ABB-41F4-B780-33C336BB421F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 996,
+    "width": 704,
+    "x": 295,
+    "y": 190
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "masterInfluenceEdgeMaxXPadding": 12,
+  "masterInfluenceEdgeMaxYPadding": 28,
+  "masterInfluenceEdgeMinXPadding": 12,
+  "masterInfluenceEdgeMinYPadding": 0,
+  "name": "1x / session info / related",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "C544C12A-29A5-4A05-A288-1A091EE3A473",
+  "verticalSpacing": 0
+}

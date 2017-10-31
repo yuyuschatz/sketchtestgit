@@ -1,0 +1,57 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "95308ED6-D1AD-42E7-B242-B118D23DC33D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 420,
+    "width": 288,
+    "x": 283,
+    "y": 1260
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "masterInfluenceEdgeMaxXPadding": 6,
+  "masterInfluenceEdgeMaxYPadding": 0,
+  "masterInfluenceEdgeMinXPadding": 7,
+  "masterInfluenceEdgeMinYPadding": 0,
+  "name": "1x / speaker / large",
+  "nameIsFixed": false,
+  "overrides": {
+    "1E0E3F61-32C4-43C5-8341-33257DB4646E": "Alison Wagonfeld",
+    "1F4198F6-A67E-43D5-A47A-FAB8C6CF37D6": "VP Marketing, Google Cloud",
+    "43673F13-3878-420B-A2F6-F8AEFD058E67": "Day 3 Keynote",
+    "C9D0CB2A-B401-4339-8C0D-AE8BA4DC65B6": {
+      "A85C5DC7-393E-48A2-9545-872CB8CE5F6D": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/65ff1083dbc9a0e2922ed88011afb0aa12ae3d52",
+        "_ref_class": "MSImageData"
+      }
+    }
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "10001853-E1D1-4131-91C6-3EF94E1762D8",
+  "verticalSpacing": 0
+}

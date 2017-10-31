@@ -1,0 +1,53 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "3C9E99AF-CBCE-40EA-98BE-3D7D04D3A663",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 220,
+    "width": 220,
+    "x": 994,
+    "y": 712
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "masterInfluenceEdgeMaxXPadding": 0,
+  "masterInfluenceEdgeMaxYPadding": 0,
+  "masterInfluenceEdgeMinXPadding": 0,
+  "masterInfluenceEdgeMinYPadding": 0,
+  "name": "1x / session / discover",
+  "nameIsFixed": false,
+  "overrides": {
+    "6E759EA9-2536-4443-A4FB-936AF8FD88B8": {
+      "_class": "MSJSONFileReference",
+      "_ref": "images/49b4ea4554a8941f444acd385a824260b42c6725",
+      "_ref_class": "MSImageData"
+    },
+    "DBDC7896-EABB-4FC9-80BB-AB984464FC73": "Cloud Mafia"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "70CF3413-C0AB-4C1C-83B6-9A0190F82E32",
+  "verticalSpacing": 0
+}

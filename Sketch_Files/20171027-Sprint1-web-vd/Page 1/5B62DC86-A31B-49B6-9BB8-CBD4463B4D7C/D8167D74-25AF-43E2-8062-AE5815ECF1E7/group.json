@@ -1,0 +1,113 @@
+{
+  "_class": "group",
+  "do_objectID": "D8167D74-25AF-43E2-8062-AE5815ECF1E7",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 1068,
+    "width": 1136,
+    "x": 82,
+    "y": 176
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "AE261C53-3A21-4B88-BCC9-D9B0C4399F3A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "287F097C-A84D-4EEA-8FAE-3DE428192121"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "423AE747-417C-45E9-B2F3-8F3FF94F7FAC"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "032D2E69-1DE5-4890-AA93-FC97AAE26C39"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E789CCA1-A20A-4916-A76D-81F4250D73B2"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "C85EFB1F-9410-48B1-9AFB-E2908C355FB3"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "2ADAD915-3C6A-4200-91B4-18054C75FA2F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "05BC0EAF-2F3E-436F-9F6F-4CB3CD7110B3"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "D4FA386E-EA9A-4EEC-9EF3-5450ED778356"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "BFA3A120-65A8-4A8F-B71E-34D384F0A5C1"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E4FFBA35-3FEC-4C93-91F1-FB8174BFAC0E"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "0C6A766D-E967-4AB0-8164-3B58AA9A93F5"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "0867BC53-9EBB-4555-949E-AE3EFDE2D621"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "A1DC9C28-CEA5-4506-8E4B-0CF42AA534D5"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "0F42FDD1-0EFD-44B5-8662-28DA97FCB11E"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "CB679887-08DC-49B6-9751-191CD74F4496"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "F4595D99-8831-4177-95C4-0438D7BDD239"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "40D388AD-4388-40C3-A70C-DCE28E0D7094"
+    }
+  ],
+  "name": "Speakers",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}
