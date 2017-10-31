@@ -1,0 +1,46 @@
+{
+  "_class": "group",
+  "do_objectID": "B85DD92F-5EC6-4FE0-9EBE-D41BDEBC9181",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 90,
+    "width": 451,
+    "x": 31,
+    "y": 280
+  },
+  "hasClickThrough": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "text",
+      "id": "8261CFE4-976D-4727-A043-DE143A32503B"
+    }
+  ],
+  "name": "Speaker Info",
+  "nameIsFixed": true,
+  "originalObjectID": "EC92F96B-205E-409E-8F54-229EBE0FAD15",
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

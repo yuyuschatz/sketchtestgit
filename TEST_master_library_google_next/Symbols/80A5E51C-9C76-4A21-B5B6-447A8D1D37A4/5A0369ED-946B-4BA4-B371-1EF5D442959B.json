@@ -1,0 +1,54 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "5A0369ED-946B-4BA4-B371-1EF5D442959B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 122,
+    "width": 643.0363763075857,
+    "x": 24,
+    "y": 665
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "masterInfluenceEdgeMaxXPadding": 0,
+  "masterInfluenceEdgeMaxYPadding": 0,
+  "masterInfluenceEdgeMinXPadding": 0,
+  "masterInfluenceEdgeMinYPadding": 0,
+  "name": "1x / session info / modal",
+  "nameIsFixed": true,
+  "overrides": {
+    "3C9466FD-BC02-417A-BCBE-0F3BCAEF9078": {
+      "E38D169B-52E1-4E4C-B37E-09A6D260D295": "API"
+    },
+    "A6DC8D3C-9F03-469E-B130-81E3DBA3A24A": {
+      "E38D169B-52E1-4E4C-B37E-09A6D260D295": "Cloud"
+    },
+    "FA028343-9C72-43B0-BD1F-EF8E94EA94BC": "Google Cloud Endpoints: serving your API to the world"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "1EA87C05-5E5A-4A6A-8C1C-DCAA3259F3DF",
+  "verticalSpacing": 0
+}

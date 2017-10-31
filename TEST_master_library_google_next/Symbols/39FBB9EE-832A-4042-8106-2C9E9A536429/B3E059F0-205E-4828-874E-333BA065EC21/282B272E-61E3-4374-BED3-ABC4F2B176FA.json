@@ -1,0 +1,46 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "282B272E-61E3-4374-BED3-ABC4F2B176FA",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 500,
+    "width": 500,
+    "x": 70,
+    "y": 20
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "masterInfluenceEdgeMaxXPadding": 120,
+  "masterInfluenceEdgeMaxYPadding": 150,
+  "masterInfluenceEdgeMinXPadding": 120,
+  "masterInfluenceEdgeMinYPadding": 90,
+  "name": "Avatar / Large",
+  "nameIsFixed": false,
+  "originalObjectID": "2D82A911-1247-41BA-89E1-AC6815BC7146",
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "1C4E6D6B-7931-447D-B103-A4B241677456",
+  "verticalSpacing": 0
+}

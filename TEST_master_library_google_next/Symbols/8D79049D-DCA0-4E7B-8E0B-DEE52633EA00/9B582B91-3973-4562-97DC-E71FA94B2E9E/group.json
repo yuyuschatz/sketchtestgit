@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "do_objectID": "9B582B91-3973-4562-97DC-E71FA94B2E9E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 27,
+    "width": 172,
+    "x": 0,
+    "y": -1
+  },
+  "hasClickThrough": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "69FEE0BD-778B-4551-A2BC-D3C3E0E84F52"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "D38E4A6F-C321-49BB-9AFA-572DDFB14A4E"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "6FF16EC2-0CEF-460A-8DFF-F3EC0FB8B48A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "1EC229F4-51AA-4F72-8DDD-5765AAD80767"
+    }
+  ],
+  "name": "Filter Bar",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}
